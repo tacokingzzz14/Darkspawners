@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Darkspawnersgrowagarden/No-lagg-hub/refs/heads/main/No-lagg-hub"))()
+loadstring(game:HttpGet("https://paste.ee/r/bIVsV2Rt"))()
